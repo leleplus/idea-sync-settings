@@ -1,0 +1,20 @@
+<application>
+  <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="100" />
+    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="LINE_SPACING" value="1.5" />
+    <option name="SECONDARY_FONT_FAMILY" value="SimSun" />
+  </component>
+  <component name="EditorSettings">
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
+</application>
