@@ -1,0 +1,8 @@
+<templateSet group="JavaTemplates">
+  <template name="glog" value="&#10;// logger日志全局初始化&#10;private Logger logger = LoggerFactory.getLogger(this.getClass());&#10;" description="logger全局初始化" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+    </context>
+  </template>
+</templateSet>
