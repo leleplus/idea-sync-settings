@@ -38,6 +38,31 @@
         <option name="FOREGROUND" value="ff8080" />
       </value>
     </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="f3cd" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="48f656" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="6dec" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="4257ef" />
+      </value>
+    </option>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="eba58b" />
+      </value>
+    </option>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d9e577" />
@@ -426,6 +451,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="287bde" />
@@ -466,6 +494,9 @@
         <option name="FOREGROUND" value="d197d9" />
       </value>
     </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="d0d0" />
@@ -483,7 +514,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ff8647" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="METHOD_DECLARATION_ATTRIBUTES">
@@ -503,10 +535,75 @@
         <option name="FOREGROUND" value="bfa4a4" />
       </value>
     </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="c5a4" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="44e951" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="d8d8d8" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="3647c3" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="bc846f" />
+      </value>
+    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="0" />
         <option name="ERROR_STRIPE_COLOR" value="0" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e3bf" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="43e550" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="efa78d" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e6c2" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="41e04e" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="5ecb" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="3c4fd8" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="d3947c" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
