@@ -537,7 +537,7 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="c5a4" />
+        <option name="FOREGROUND" value="e2be" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR1">
@@ -547,17 +547,17 @@
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR2">
       <value>
-        <option name="FOREGROUND" value="d8d8d8" />
+        <option name="FOREGROUND" value="f6f6f6" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR3">
       <value>
-        <option name="FOREGROUND" value="3647c3" />
+        <option name="FOREGROUND" value="4052eb" />
       </value>
     </option>
     <option name="ROUND_BRACKETS_RAINBOW_COLOR4">
       <value>
-        <option name="FOREGROUND" value="bc846f" />
+        <option name="FOREGROUND" value="eba68d" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
