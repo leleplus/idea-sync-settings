@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="160" />
   <MySQLCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
   </MySQLCodeStyleSettings>
