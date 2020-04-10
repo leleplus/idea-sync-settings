@@ -2,6 +2,8 @@
   <option name="RIGHT_MARGIN" value="160" />
   <JavaCodeStyleSettings>
     <option name="SPACE_INSIDE_ONE_LINE_ENUM_BRACES" value="true" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
+    <option name="JD_INDENT_ON_CONTINUATION" value="true" />
   </JavaCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
@@ -9,6 +11,9 @@
     <option name="QUOTED_IDENTIFIER_CASE" value="0" />
   </MySQLCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="SPACE_AROUND_UNARY_OPERATOR" value="true" />
@@ -18,7 +23,9 @@
     <option name="SPACE_BEFORE_ARRAY_INITIALIZER_LBRACE" value="true" />
     <option name="KEEP_SIMPLE_LAMBDAS_IN_ONE_LINE" value="true" />
     <option name="KEEP_SIMPLE_CLASSES_IN_ONE_LINE" value="true" />
+    <option name="WRAP_COMMENTS" value="true" />
     <option name="SPACE_BEFORE_ANOTATION_PARAMETER_LIST" value="true" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
@@ -35,5 +42,12 @@
         </group>
       </groups>
     </arrangement>
+  </codeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="SMART_TABS" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
