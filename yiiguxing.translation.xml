@@ -13,4 +13,9 @@
       </map>
     </option>
   </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="primaryFontFamily" value="FZSongKeBenXiuKaiS-R-GB" />
+  </component>
 </application>
