@@ -1,0 +1,8 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+    </blacklists>
+    <option id="java.clear.expression.type" value="true" />
+  </component>
+</application>
