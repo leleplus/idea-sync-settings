@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single" />
+      <item value="Create a map from this XWPF-level enum to the STBorder.Enum values" />
+      <item value="NIL" />
+      <item value="THIN THICK LARGE GAP" />
+      <item value="NIL, NONE, SINGLE, THICK, DOUBLE, DOTTED, DASHED, DOT_DASH, DOT_DOT_DASH, TRIPLE, THIN_THICK_SMALL_GAP, THICK_THIN_SMALL_GAP, THIN_THICK_THIN_SMALL_GAP, THIN_THICK_MEDIUM_GAP, THICK_THIN_MEDIUM_GAP, THIN_THICK_THIN_MEDIUM_GAP, THIN_THICK_LARGE_GAP, THICK_THIN_LARGE_GAP, THIN_THICK_THIN_LARGE_GAP, WAVE, DOUBLE_WAVE, DASH_SMALL_GAP, DASH_DOT_STROKED, THREE_D_EMBOSS, THREE_D_ENGRAVE, OUTSET, INSET" />
       <item value="MEDIUM KASHIDA" />
       <item value="medium Kashida" />
       <item value="service.update(user);" />
@@ -10,8 +15,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="6" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="7" />
+        <entry key="ENGLISH" value="8" />
       </map>
     </option>
   </component>
