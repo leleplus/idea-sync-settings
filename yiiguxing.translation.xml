@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="/** * Set Inside Vertical borders for table * * @param type - {@link XWPFBorderType} e.g. single, double, thick * @param size - Specifies the width of the current border. The width of this border is * specified in measurements of eighths of a point, with a minimum value of two (onefourth * of a point) and a maximum value of 96 (twelve points). Any values outside this * range may be reassigned to a more appropriate value. * @param space - Specifies the spacing offset that shall be used to place this border on the table * @param rgbColor - This color may either be presented as a hex value (in RRGGBB format), * or auto to allow a consumer to automatically determine the border color as appropriate." />
       <item value="Render" />
       <item value="single" />
       <item value="Create a map from this XWPF-level enum to the STBorder.Enum values" />
@@ -16,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="8" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
