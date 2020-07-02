@@ -11,8 +11,13 @@
   </HTMLCodeStyleSettings>
   <JavaCodeStyleSettings>
     <option name="SPACE_INSIDE_ONE_LINE_ENUM_BRACES" value="true" />
-    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
-    <option name="JD_INDENT_ON_CONTINUATION" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+    <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+    <option name="JD_KEEP_INVALID_TAGS" value="false" />
+    <option name="JD_KEEP_EMPTY_PARAMETER" value="false" />
+    <option name="JD_KEEP_EMPTY_EXCEPTION" value="false" />
+    <option name="JD_KEEP_EMPTY_RETURN" value="false" />
+    <option name="JD_PRESERVE_LINE_FEEDS" value="true" />
   </JavaCodeStyleSettings>
   <MySQLCodeStyleSettings version="2">
     <option name="KEYWORD_CASE" value="0" />
