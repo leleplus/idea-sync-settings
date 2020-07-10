@@ -3,6 +3,7 @@
     <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="HIDE_TOOL_STRIPES" value="true" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="848" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
