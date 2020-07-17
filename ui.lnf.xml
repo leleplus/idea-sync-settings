@@ -1,8 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="ACTIVATE_MRU_EDITOR_ON_CLOSE" value="true" />
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
-    <option name="EDITOR_TAB_LIMIT" value="15" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="848" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
@@ -10,6 +9,7 @@
     <option name="PRESENTATION_MODE_FONT_SIZE" value="16" />
     <option name="RECENT_FILES_LIMIT" value="100" />
     <option name="RECENT_LOCATIONS_LIMIT" value="30" />
+    <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SORT_LOOKUP_ELEMENTS_LEXICOGRAPHICALLY" value="true" />
     <option name="SORT_TABS_ALPHABETICALLY" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
