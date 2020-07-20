@@ -1,6 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="集散中心" />
+      <item value="分拨中心" />
+      <item value="分拨   " />
+      <item value="分拨" />
+      <item value="fen" />
+      <item value="三级" />
+      <item value="集散仓" />
+      <item value="快运分拨" />
+      <item value="快递事业部" />
+      <item value="-快递事业部" />
+      <item value="供应链事业部" />
+      <item value="店加事业部" />
+      <item value="warehouse" />
+      <item value="仓" />
+      <item value="淞" />
+      <item value="转运中心" />
+      <item value="市分公司" />
+      <item value="分公司" />
+      <item value="事分公司" />
+      <item value="fen gong si" />
+      <item value="shi fen gong si" />
       <item value="宁夏分公司 青海分公司 新疆分公司" />
       <item value="临沂转运中心" />
       <item value="潍坊转运中心" />
@@ -31,8 +52,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>
