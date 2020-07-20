@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
       <item value="bj" />
       <item value="Incident" />
       <item value="打分表" />
