@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corporate" />
       <item value="集散中心" />
       <item value="分拨中心" />
       <item value="分拨   " />
@@ -53,7 +54,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
