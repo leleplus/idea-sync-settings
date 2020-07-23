@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="事业部安全经理" />
+      <item value="事业部" />
+      <item value="分公司安全经理" />
+      <item value="分公司事业部安全经理" />
+      <item value="分公司/事业部分公司负责人" />
+      <item value="大区安全经理" />
+      <item value="集团安全经理" />
+      <item value="系统管理员" />
+      <item value="管理员" />
       <item value="Contact" />
       <item value="Contact [%d] not in the Facility" />
       <item value="corporate" />
@@ -42,20 +51,11 @@
       <item value="/** * Set Inside Vertical borders for table * * @param type - {@link XWPFBorderType} e.g. single, double, thick * @param size - Specifies the width of the current border. The width of this border is * specified in measurements of eighths of a point, with a minimum value of two (onefourth * of a point) and a maximum value of 96 (twelve points). Any values outside this * range may be reassigned to a more appropriate value. * @param space - Specifies the spacing offset that shall be used to place this border on the table * @param rgbColor - This color may either be presented as a hex value (in RRGGBB format), * or auto to allow a consumer to automatically determine the border color as appropriate." />
       <item value="Render" />
       <item value="single" />
-      <item value="Create a map from this XWPF-level enum to the STBorder.Enum values" />
-      <item value="NIL" />
-      <item value="THIN THICK LARGE GAP" />
-      <item value="NIL, NONE, SINGLE, THICK, DOUBLE, DOTTED, DASHED, DOT_DASH, DOT_DOT_DASH, TRIPLE, THIN_THICK_SMALL_GAP, THICK_THIN_SMALL_GAP, THIN_THICK_THIN_SMALL_GAP, THIN_THICK_MEDIUM_GAP, THICK_THIN_MEDIUM_GAP, THIN_THICK_THIN_MEDIUM_GAP, THIN_THICK_LARGE_GAP, THICK_THIN_LARGE_GAP, THIN_THICK_THIN_LARGE_GAP, WAVE, DOUBLE_WAVE, DASH_SMALL_GAP, DASH_DOT_STROKED, THREE_D_EMBOSS, THREE_D_ENGRAVE, OUTSET, INSET" />
-      <item value="MEDIUM KASHIDA" />
-      <item value="medium Kashida" />
-      <item value="service.update(user);" />
-      <item value="from" />
-      <item value="AUTOWIRE AUTODETECT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
