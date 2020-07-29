@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="店加事业部" />
+      <item value="店家事业部" />
+      <item value="供应链事业部" />
+      <item value="快递" />
+      <item value="Express" />
+      <item value="快递事业部" />
+      <item value="快运事业部" />
+      <item value="事业部" />
       <item value="角色" />
       <item value="组织架构" />
       <item value="消息群组" />
@@ -9,7 +17,6 @@
       <item value="optimum performance." />
       <item value="消息" />
       <item value="事业部安全经理" />
-      <item value="事业部" />
       <item value="分公司安全经理" />
       <item value="分公司事业部安全经理" />
       <item value="分公司/事业部分公司负责人" />
@@ -28,10 +35,7 @@
       <item value="三级" />
       <item value="集散仓" />
       <item value="快运分拨" />
-      <item value="快递事业部" />
       <item value="-快递事业部" />
-      <item value="供应链事业部" />
-      <item value="店加事业部" />
       <item value="warehouse" />
       <item value="仓" />
       <item value="淞" />
@@ -47,15 +51,11 @@
       <item value="济宁转运中心" />
       <item value="青岛转运中心" />
       <item value="山东-快递事业部" />
-      <item value="济南转运中心" />
-      <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
-      <item value="bj" />
-      <item value="Incident" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>
