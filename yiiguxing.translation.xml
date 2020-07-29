@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="角色" />
       <item value="组织架构" />
       <item value="消息群组" />
       <item value="消息详情" />
@@ -50,12 +51,11 @@
       <item value="Multiple Spring Boot run configurations were detected. Services allows to manage multiple run configurations at once." />
       <item value="bj" />
       <item value="Incident" />
-      <item value="打分表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="63" />
       </map>
     </option>
   </component>
