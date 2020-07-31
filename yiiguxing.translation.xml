@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="未找到期望的系统配置项" />
       <item value="您输入了一个不合法的数据值，超出了我的期望" />
       <item value="您输入了一个不合法的数据值" />
       <item value="您输入了一个不合法的数据" />
@@ -50,12 +51,11 @@
       <item value="市分公司" />
       <item value="分公司" />
       <item value="事分公司" />
-      <item value="fen gong si" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="75" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="76" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
