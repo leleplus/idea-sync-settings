@@ -3,6 +3,7 @@
     <option name="profile">
       <Profile>
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
