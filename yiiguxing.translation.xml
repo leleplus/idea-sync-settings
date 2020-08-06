@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gap" />
+      <item value="Date Gap" />
       <item value="Sinotrans Corrective Task Completed Message" />
       <item value="特種設備型號" />
       <item value="设备管理" />
@@ -49,13 +51,11 @@
       <item value="-快递事业部" />
       <item value="warehouse" />
       <item value="仓" />
-      <item value="淞" />
-      <item value="转运中心" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="79" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
