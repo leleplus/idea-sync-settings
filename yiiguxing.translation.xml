@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field" />
+      <item value="Can not deserialize instance of java.util.ArrayList out of VALUE_STRING token" />
       <item value="un Related" />
       <item value="FileInputStream fileInputStream = new FileInputStream(file);" />
       <item value="Question type list" />
@@ -49,13 +51,11 @@
       <item value="大区安全经理" />
       <item value="集团安全经理" />
       <item value="系统管理员" />
-      <item value="管理员" />
-      <item value="Contact" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
