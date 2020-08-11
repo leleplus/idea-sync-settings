@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="江西-职能组" />
+      <item value="浙江-职能组" />
+      <item value="福建-职能组" />
       <item value="职能组" />
       <item value="logical acceptable answer" />
       <item value="field" />
@@ -48,14 +51,11 @@
       <item value="消息" />
       <item value="事业部安全经理" />
       <item value="分公司安全经理" />
-      <item value="分公司事业部安全经理" />
-      <item value="分公司/事业部分公司负责人" />
-      <item value="大区安全经理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="97" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="100" />
       </map>
     </option>
   </component>
