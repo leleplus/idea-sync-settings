@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot get a STRING value from a NUMERIC formula cell" />
       <item value="请上传后缀为xls或者xlsx的excel文件" />
       <item value="江西-职能组" />
       <item value="浙江-职能组" />
@@ -50,12 +51,11 @@
       <item value="消息通知" />
       <item value="optimum performance." />
       <item value="消息" />
-      <item value="事业部安全经理" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="101" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="ENGLISH" value="102" />
       </map>
     </option>
   </component>
