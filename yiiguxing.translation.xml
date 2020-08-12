@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Method 'isEmpty()' recurses infinitely, and can only end by throwing an exception" />
       <item value="This course is in a state that cannot import employee data ." />
       <item value="出勤" />
       <item value="This employee's supervisor doesn't exist." />
@@ -50,11 +51,10 @@
       <item value="Retrieve message list" />
       <item value="未读" />
       <item value="已读" />
-      <item value="soft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
+        <entry key="CHINESE" value="114" />
         <entry key="ENGLISH" value="114" />
         <entry key="ROMANIAN" value="1" />
       </map>
