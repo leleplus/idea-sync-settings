@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retrieve" />
       <item value="Data truncation: Truncated incorrect DOUBLE value: '73,77'" />
       <item value="suggestions And Feedback" />
       <item value="ISOLATION DEFAULT" />
@@ -50,12 +51,11 @@
       <item value="Sinotrans Corrective Task Completed Message" />
       <item value="特種設備型號" />
       <item value="设备管理" />
-      <item value="未找到期望的系统配置项" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
