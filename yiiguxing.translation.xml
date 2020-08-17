@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="position" />
+      <item value="是否按时定检" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="Date data does not exist when session requests an insert or update." />
       <item value="remind facility contact" />
       <item value="period unit" />
       <item value="reminder before expiration" />
@@ -9,7 +13,6 @@
       <item value="Data truncation: Truncated incorrect DOUBLE value: '73,77'" />
       <item value="suggestions And Feedback" />
       <item value="ISOLATION DEFAULT" />
-      <item value="Data Integrity Violation Exception" />
       <item value="One or more referenced data doesn't exist in database and can't be applied. Please confirm the reference data and try again." />
       <item value="Reflections" />
       <item value="array element type mismatch" />
@@ -48,14 +51,11 @@
       <item value="分数" />
       <item value="Duplicates" />
       <item value="弃置" />
-      <item value="在用" />
-      <item value="设备状态" />
-      <item value="gap" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="126" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
