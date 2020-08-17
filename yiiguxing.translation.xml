@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="remind facility contact" />
+      <item value="period unit" />
+      <item value="reminder before expiration" />
       <item value="Criterias" />
       <item value="Retrieve" />
       <item value="Data truncation: Truncated incorrect DOUBLE value: '73,77'" />
@@ -48,14 +51,11 @@
       <item value="在用" />
       <item value="设备状态" />
       <item value="gap" />
-      <item value="Date Gap" />
-      <item value="Sinotrans Corrective Task Completed Message" />
-      <item value="特種設備型號" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="126" />
+        <entry key="ENGLISH" value="127" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
@@ -64,5 +64,6 @@
     <option name="ignoreRegExp" value="" />
     <option name="overrideFont" value="true" />
     <option name="primaryFontFamily" value="FZSongKeBenXiuKaiS-R-GB" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
