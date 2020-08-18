@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="accreditation date" />
       <item value="revision" />
       <item value="set Minimum Fraction Digits" />
       <item value="rate" />
@@ -50,12 +51,11 @@
       <item value="Question type list" />
       <item value="not marked as ignorable" />
       <item value="Unrecognized" />
-      <item value="Retrieve class list, then export list data to CSV file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="133" />
+        <entry key="ENGLISH" value="134" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
