@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="deletions" />
+      <item value="collection" />
       <item value="Date data does not exist when session requests an insert or update." />
       <item value="The following warnings have been detected: WARNING" />
       <item value="accreditation date" />
@@ -49,13 +51,11 @@
       <item value="Can not deserialize instance of java.util.ArrayList out of VALUE_STRING token" />
       <item value="un Related" />
       <item value="FileInputStream fileInputStream = new FileInputStream(file);" />
-      <item value="Question type list" />
-      <item value="not marked as ignorable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
