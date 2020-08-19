@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Date data does not exist when session requests an insert or update." />
       <item value="The following warnings have been detected: WARNING" />
       <item value="accreditation date" />
       <item value="revision" />
@@ -9,7 +10,6 @@
       <item value="position" />
       <item value="是否按时定检" />
       <item value="Data Integrity Violation Exception" />
-      <item value="Date data does not exist when session requests an insert or update." />
       <item value="remind facility contact" />
       <item value="period unit" />
       <item value="reminder before expiration" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
