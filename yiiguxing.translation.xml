@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="roster" />
+      <item value="isroster" />
       <item value="estimated start dtm" />
       <item value="0 estimated start dtm" />
       <item value="company" />
@@ -49,13 +51,11 @@
       <item value="请上传后缀为xls或者xlsx的excel文件" />
       <item value="江西-职能组" />
       <item value="浙江-职能组" />
-      <item value="福建-职能组" />
-      <item value="职能组" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
