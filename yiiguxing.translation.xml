@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ehs investigation" />
+      <item value="inspection id" />
       <item value="Query Util" />
       <item value="symbols" />
       <item value="在岗培训" />
@@ -49,13 +51,11 @@
       <item value="扫描到工作薄中有多个sheet,请保留要扫描的sheet再次尝试!" />
       <item value="扫描到工作薄中有多个sheet,请保留要扫描的sheet再试一次" />
       <item value="该课程所处状态不能导入员工数据" />
-      <item value="total" />
-      <item value="Excel 文件类型错误" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
