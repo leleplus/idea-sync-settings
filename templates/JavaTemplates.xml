@@ -1,5 +1,6 @@
 <templateSet group="JavaTemplates">
-  <template name="glog" value="&#10;// logger日志全局初始化&#10;private final Logger logger = LoggerFactory.getLogger(this.getClass());&#10;" description="logger全局初始化" toReformat="false" toShortenFQNames="true">
+  <template name="glog" value="&#10;// logger日志全局初始化&#10;private final Logger logger = LoggerFactory.getLogger($CLASS_NAME$.class);&#10;" description="logger全局初始化" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
       <option name="JAVA_COMMENT" value="false" />
