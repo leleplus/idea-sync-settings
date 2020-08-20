@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Query Util" />
       <item value="symbols" />
       <item value="在岗培训" />
       <item value="新工培训" />
@@ -50,7 +51,6 @@
       <item value="该课程所处状态不能导入员工数据" />
       <item value="total" />
       <item value="Excel 文件类型错误" />
-      <item value="Cannot get a STRING value from a NUMERIC formula cell" />
     </histories>
     <option name="languageScores">
       <map>
