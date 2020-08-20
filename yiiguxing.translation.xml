@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check" />
       <item value="ehs inspection audit" />
       <item value="ehs investigation" />
       <item value="inspection id" />
@@ -50,12 +51,11 @@
       <item value="get Class Check Info For Insert" />
       <item value="get Conflict Class Info For Insert" />
       <item value="扫描到工作薄中有多个sheet,请保留要扫描的sheet再次尝试!" />
-      <item value="扫描到工作薄中有多个sheet,请保留要扫描的sheet再试一次" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="150" />
+        <entry key="ENGLISH" value="151" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
