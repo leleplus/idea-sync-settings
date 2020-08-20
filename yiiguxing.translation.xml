@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbols" />
       <item value="在岗培训" />
       <item value="新工培训" />
       <item value="rate" />
@@ -50,12 +51,11 @@
       <item value="total" />
       <item value="Excel 文件类型错误" />
       <item value="Cannot get a STRING value from a NUMERIC formula cell" />
-      <item value="请上传后缀为xls或者xlsx的excel文件" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="146" />
+        <entry key="ENGLISH" value="147" />
         <entry key="ROMANIAN" value="2" />
       </map>
     </option>
