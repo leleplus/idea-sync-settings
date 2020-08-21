@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="There are multiple sheets in the scanned workbook, please keep the sheets you want to scan and try again!" />
       <item value="check" />
       <item value="ehs inspection audit" />
       <item value="ehs investigation" />
@@ -50,7 +51,6 @@
       <item value="lass full or has not fulfill prerequisite employees" />
       <item value="get Class Check Info For Insert" />
       <item value="get Conflict Class Info For Insert" />
-      <item value="扫描到工作薄中有多个sheet,请保留要扫描的sheet再次尝试!" />
     </histories>
     <option name="languageScores">
       <map>
